@@ -1,2 +1,1 @@
-# Este es un ejemplo para subir el proyecto a github
-     
+# Este es un ejemplo para subir un proyecto a github
